@@ -1,0 +1,2 @@
+Good day Shalon !
+Due to technical difficulties with my SQL Server and Workbench, I was unable to complete and submit the .sql file for the assignment. I am working to resolve the issue and will submit the file as soon as possible. I appreciate your understanding.
