@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E-commerce Sales 
 Objective: To Analyze e-commerce Amazon Data using python and MySQL for data analysis and Visualization
 
@@ -47,3 +48,6 @@ Weak Negative Correlation: The weak negative correlation between discount percen
 2. Customer Engagement: Personalized recommendations, loyalty programs, and well-timed promotional campaigns are key strategies to boost sales and customer engagement.
 
 3. Data-Driven Decisions: Regular analysis of sales data is essential to identify trends, spot anomalies, and make informed business decisions.
+=======
+# Amazanalyze
+>>>>>>> 26abf9acf6b2ab4bc8d2149773c885f9a2a349f0
