@@ -40,7 +40,7 @@ I found a weak negative correlation between discount percentage and rating (corr
 
 
 (d)Anomalies or Patterns Found in the Data
-Weak Negative Correlation: The weak negative correlation between discount percentage and rating (-0.1554) suggests that higher discounts do not necessarily lead to better product ratings. This indicates that customers might perceive heavily discounted products as lower quality or less valuable.
+Weak Negative Correlation: The weak negative correlation between discount percentage and rating (-0.16) suggests that higher discounts do not necessarily lead to better product ratings. This indicates that customers might perceive heavily discounted products as lower quality or less valuable.
 
 (e)Conclusions
 1. Discount Strategy: Given the weak negative correlation between discounts and ratings, it's crucial to apply discounts strategically, focusing on well-received products to avoid devaluing the brand.
